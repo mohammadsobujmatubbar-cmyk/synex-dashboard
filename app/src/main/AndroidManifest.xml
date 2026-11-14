@@ -4,6 +4,8 @@
     <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
 
     <application
+        android:icon="@drawable/synex_logo"
+        android:roundIcon="@drawable/synex_logo"
         android:theme="@android:style/Theme.Material.NoActionBar"
         android:label="SYNEX Relay"
         android:usesCleartextTraffic="true">
